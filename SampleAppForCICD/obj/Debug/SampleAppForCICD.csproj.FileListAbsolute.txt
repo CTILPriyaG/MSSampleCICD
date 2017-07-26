@@ -1,0 +1,6 @@
+D:\Linq\01-Practical LINQ\SampleAppForCICD\SampleAppForCICD\bin\Debug\SampleAppForCICD.exe.config
+D:\Linq\01-Practical LINQ\SampleAppForCICD\SampleAppForCICD\bin\Debug\SampleAppForCICD.exe
+D:\Linq\01-Practical LINQ\SampleAppForCICD\SampleAppForCICD\bin\Debug\SampleAppForCICD.pdb
+D:\Linq\01-Practical LINQ\SampleAppForCICD\SampleAppForCICD\obj\Debug\SampleAppForCICD.csprojResolveAssemblyReference.cache
+D:\Linq\01-Practical LINQ\SampleAppForCICD\SampleAppForCICD\obj\Debug\SampleAppForCICD.exe
+D:\Linq\01-Practical LINQ\SampleAppForCICD\SampleAppForCICD\obj\Debug\SampleAppForCICD.pdb
