@@ -6,7 +6,7 @@ namespace SampleAppForCICD
     {
         static void Main(string[] args)
         {
-            Console.Write("Welcome to first C# CI");
+            Console.Write("Welcome to first C# CI and CD application...");
         }
     }
 }
